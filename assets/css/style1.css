@@ -1,0 +1,9 @@
+    .contenedor {
+        background-color: #F7F8FC;
+        ;
+    }
+    
+    h4.review,
+    div.holajimena {
+        display: inline;
+    }
